@@ -1,0 +1,69 @@
+.background {
+    background-color: rgb(94, 202, 235);
+}
+
+
+.headbox {
+    background-color: rgb(238, 192, 123);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+li {
+    float: left;
+}
+
+.move {
+    margin-left: -30px;
+    display: inline;
+    position: relative;
+}
+
+.navright{
+    float: right;
+
+}
+
+.container {  
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-top: 40px;
+}
+
+ .top-left {
+    font-style: italic;
+    font-size:large;
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+.intro {
+    text-align: center;
+}
+
+.table, td, th {
+    border: 1px solid;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px;
+    
+}
+
+.footer {
+    position: relative;
+    bottom: -20px;
+    left: 0px;
+}
+
+.fonav {
+    float: right;
+}
